@@ -1,3 +1,8 @@
 export default function Home() {
-  return <div>Put Your Page.tsx here</div>;
+  return (
+    <div className="flex flex-col items-center justify-center h-screen">
+      <h1 className="text-4xl font-bold">Tuxedo UI App</h1>
+      <span>Make Changes on page.tsx file</span>
+    </div>
+  );
 }
