@@ -29,5 +29,5 @@
 
 ## Development
 
-- Edit `app/page.tsx` to modify the main page
+- You should make every changes on `app/page.tsx`.
 
